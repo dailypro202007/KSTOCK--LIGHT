@@ -1,6 +1,7 @@
 {
   "name": "k-stock-technical-analyst--3ema--list-ver1.4",
   "version": "0.0.0",
+  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
