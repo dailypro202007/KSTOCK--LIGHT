@@ -1,12 +1,12 @@
 {
   "name": "k-stock-technical-analyst--3ema--list-ver1.4",
-  "private": true,
   "version": "0.0.0",
-  "type": "module",
   "scripts": {
-  "build": "vite build",
-  "pages:deploy": "npx wrangler pages deploy dist"
-},
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "pages:deploy": "npx wrangler pages deploy dist"
+  },
   "dependencies": {
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
