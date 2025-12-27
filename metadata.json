@@ -1,0 +1,5 @@
+{
+  "name": "K-Stock Technical Analyst -3EMA -List ver1.4",
+  "description": "A technical analysis tool that fetches Korean stock data, calculates Moving Averages (MA20, MA60), and provides data export and self-learning pattern extraction.",
+  "requestFramePermissions": []
+}
