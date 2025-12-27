@@ -6,8 +6,9 @@
   "dev": "vite",
   "build": "vite build",
   "preview": "vite preview",
-  "pages:deploy": "npx wrangler pages deploy dist --project-name kstocklight"
+  "pages:deploy": "npx wrangler pages deploy dist"
 }
+
 
   "dependencies": {
     "react": "^19.2.0",
